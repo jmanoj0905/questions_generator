@@ -1,0 +1,15 @@
+chromadb
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+streamlit
+faiss-cpu
+streamlit-chromadb-connection
+pymupdf
+Pillow
+pytesseract
+python-dotenv
+sentence-transformers
+numpy
+pandas
