@@ -11,7 +11,7 @@ import pytesseract
 import streamlit as st
 import time
 import dotenv
-
+#import manvith m nayak
 dotenv.load_dotenv()
 api_key = os.getenv("GROQ_API_KEY")
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
